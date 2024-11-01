@@ -1,0 +1,23 @@
+@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap);
+.jcgmt-container .jcgmt-lbl{width:auto}
+.single-clock{display:inline-block;padding:30px;margin-right:5px}
+.single-clock .jcgmt-lbl h2{color:inherit;font-family:inherit;font-weight:inherit;font-size:16px;margin:0 0 10px}
+.single-clock .jcgmt-lbl h3{color:inherit;font-family:inherit;font-size:16px;margin:0}
+.single-clock .jcgmt-clockHolder{display:block;margin:27px 0;text-align:center}
+.single-clock .medium-clock h2,.single-clock .medium-clock h3{font-size:20px}
+.single-clock .medium-small h2,.single-clock .medium-small h3{font-size:18px}
+.medium-small{text-align:center}
+.medium-clock{width:312px;text-align:center}
+.jcgmt-digital{font-weight:400;font-size:14px;color:#444;text-align:center;margin-left:8px}
+.single-clock .jcgmt-clockHolder{margin:0 auto}
+.jcgmt-rotatingWrapper{position:absolute;width:200px;height:200px;z-index:100}
+.jcgmt-clockHolder{width:200px;margin:0 auto;position:relative;overflow:hidden}
+.universal-clock-main-wrapper{text-align:center}
+.universal-clock-main-wrapper .universal-clocks-wrapper{display:inline-block}
+.universal-clock-main-wrapper{display:flex;flex-wrap:wrap;justify-content:center;display:flex}
+.medium-clock{width:312px;text-align:center;margin:15px 0}
+.single-clock .medium-clock .jcgmt-container.jcgmt-digital{font-family:Yeseva One,sans-serif;font-size:20px;font-weight:600;margin-top:0;margin-bottom:0}
+.medium-clock{width:312px;text-align:center;margin:15px 0}
+.universal-clock-main-wrapper .universal-clocks-wrapper{display:initial;flex:1;padding:0;display:flex;justify-content:center;align-items:center;flex-wrap:wrap;margin:15px}
+.universal-clock-main-wrapper{display:flex;flex-wrap:wrap;justify-content:center}
